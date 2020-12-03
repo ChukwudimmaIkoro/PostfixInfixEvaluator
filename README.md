@@ -4,6 +4,6 @@ Application that takes in basic arithmetic equations and solves them using stack
 
 ● Created a program that takes in equations involving addition, subtraction, multiplication, division, parentheses, and exponents and solves them using stacks and precedence rules.
 
-● Implemented methods that allow for both postix and inix equations to be solved with the program.
+● Implemented methods that allow for both postfix and infix equations to be solved with the program.
 
-● Implemented postix equations solution using one stack and inix equations using two stacks.
+● Implemented postfix equations solution using one stack and infix equations using two stacks.
